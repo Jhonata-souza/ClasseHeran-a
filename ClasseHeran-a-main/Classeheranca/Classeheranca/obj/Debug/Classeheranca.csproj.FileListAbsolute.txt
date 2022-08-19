@@ -1,0 +1,25 @@
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\bin\Debug\Classeheranca.exe.config
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\bin\Debug\Classeheranca.exe
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\bin\Debug\Classeheranca.pdb
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\obj\Debug\Classeheranca.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\obj\Debug\Classeheranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\obj\Debug\Classeheranca.Form1.resources
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\obj\Debug\Classeheranca.Properties.Resources.resources
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\obj\Debug\Classeheranca.csproj.GenerateResource.cache
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\obj\Debug\Classeheranca.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\obj\Debug\Classeheranca.exe
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\obj\Debug\Classeheranca.pdb
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\obj\Debug\Classeheranca.AlunoCadastro.resources
+C:\Users\2jdmtec\Downloads\POO - classe com herança\Classeheranca\Classeheranca\obj\Debug\Classeheranca.ProfessorCadastro.resources
+C:\Users\milae\Downloads\ClasseHeran-a-main\Classeheranca\Classeheranca\bin\Debug\Classeheranca.exe.config
+C:\Users\milae\Downloads\ClasseHeran-a-main\Classeheranca\Classeheranca\bin\Debug\Classeheranca.exe
+C:\Users\milae\Downloads\ClasseHeran-a-main\Classeheranca\Classeheranca\bin\Debug\Classeheranca.pdb
+C:\Users\milae\Downloads\ClasseHeran-a-main\Classeheranca\Classeheranca\obj\Debug\Classeheranca.csprojAssemblyReference.cache
+C:\Users\milae\Downloads\ClasseHeran-a-main\Classeheranca\Classeheranca\obj\Debug\Classeheranca.AlunoCadastro.resources
+C:\Users\milae\Downloads\ClasseHeran-a-main\Classeheranca\Classeheranca\obj\Debug\Classeheranca.Form1.resources
+C:\Users\milae\Downloads\ClasseHeran-a-main\Classeheranca\Classeheranca\obj\Debug\Classeheranca.ProfessorCadastro.resources
+C:\Users\milae\Downloads\ClasseHeran-a-main\Classeheranca\Classeheranca\obj\Debug\Classeheranca.Properties.Resources.resources
+C:\Users\milae\Downloads\ClasseHeran-a-main\Classeheranca\Classeheranca\obj\Debug\Classeheranca.csproj.GenerateResource.cache
+C:\Users\milae\Downloads\ClasseHeran-a-main\Classeheranca\Classeheranca\obj\Debug\Classeheranca.csproj.CoreCompileInputs.cache
+C:\Users\milae\Downloads\ClasseHeran-a-main\Classeheranca\Classeheranca\obj\Debug\Classeheranca.exe
+C:\Users\milae\Downloads\ClasseHeran-a-main\Classeheranca\Classeheranca\obj\Debug\Classeheranca.pdb
